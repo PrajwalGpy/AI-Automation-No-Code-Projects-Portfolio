@@ -4,7 +4,7 @@ Welcome to my collection of AI-powered automation projects and no-code solutions
 
 ## 🌟 Featured Projects
 
-### 1. 🔮 [Past Life Finder - AI-Powered Mystical Web App](./past-life-finder/)
+### 1. 🔮 [Past Life Finder - AI-Powered Mystical Web App](./Past-Life-Finder/)
 An enchanting web application that generates fictional past life profiles based on user names, complete with AI-generated portraits and mystical backstories.
 
 **Tech Stack:** Lovable (No-Code Frontend) + n8n + OpenAI API  
