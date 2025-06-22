@@ -4,25 +4,25 @@ Welcome to my collection of AI-powered automation projects and no-code solutions
 
 ## 🌟 Featured Projects
 
-### 1. 🔮 [Past Life Finder - AI-Powered Mystical Web App](./Past-Life-Finder/)
+### 1. 🔮 [Past Life Finder - AI-Powered Mystical Web App](https://github.com/PrajwalGpy/Past-Life-Finder)
 An enchanting web application that generates fictional past life profiles based on user names, complete with AI-generated portraits and mystical backstories.
 
 **Tech Stack:** Lovable (No-Code Frontend) + n8n + OpenAI API  
 **Features:** Interactive UI, AI-generated stories, Shareable profiles, Printable certificates
 
-### 2. 🤖 [AI Personal Assistant System](./ai-personal-assistant/)
+### 2. 🤖 [AI Personal Assistant System](https://github.com/PrajwalGpy/Personal-Assistant)
 A comprehensive AI-powered personal assistant that delegates tasks to specialized AI agents, handling everything from email management to content creation.
 
 **Tech Stack:** n8n + GPT-4 + Claude 3.5 Sonnet + Telegram + AirTable  
 **Features:** Email automation, Calendar management, Content creation, Contact management, Web research
 
-### 3. 📝 [LinkedIn Content Automation Workflow](./linkedin-content-automation/)
+### 3. 📝 [LinkedIn Content Automation Workflow](https://github.com/PrajwalGpy/LinkedIn-Content-Automation-Workflow)
 A RAG-powered workflow that automates the entire LinkedIn content creation process, from research to graphics generation.
 
 **Tech Stack:** n8n + OpenRouter + Tavily + OpenAI Image API  
 **Features:** Automated research, Professional post generation, Custom graphics, 2-minute content creation
 
-### 4. 💼 [Invoice Processing Automation](./invoice-processing-automation/)
+### 4. 💼 [Invoice Processing Automation](https://github.com/PrajwalGpy/Invoice-Processing-Automation)
 An intelligent workflow that automatically processes invoice PDFs, extracts key data, and updates databases without manual intervention.
 
 **Tech Stack:** Google Drive + n8n + AI Information Extractor + Google Sheets + Gmail + Google Gemini 2.0  
