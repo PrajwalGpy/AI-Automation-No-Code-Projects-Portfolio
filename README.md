@@ -146,7 +146,7 @@ Special thanks to **Nate Herk | AI Automation** for the excellent tutorials that
 
 I'm always excited to discuss AI automation, no-code solutions, and innovative project ideas!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://prajwalgopalpoojary.netlify.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://prajwalgopalpoojary.me/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwalgopalpoojary/)  
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prajwalgpa)
 
@@ -156,7 +156,7 @@ I'm always excited to discuss AI automation, no-code solutions, and innovative p
 
 - **Name**: Prajwal Gopal Poojary
 - **Email**: prajwalgpa@gmail.com
-- **Portfolio**: [prajwalgopalpoojary.netlify.app](https://prajwalgopalpoojary.netlify.app/)
+- **Portfolio**: [prajwalgopalpoojary.netlify.app](https://prajwalgopalpoojary.me/)
 
 ---
 
