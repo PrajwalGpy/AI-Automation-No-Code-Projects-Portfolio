@@ -156,7 +156,7 @@ I'm always excited to discuss AI automation, no-code solutions, and innovative p
 
 - **Name**: Prajwal Gopal Poojary
 - **Email**: prajwalgpa@gmail.com
-- **Portfolio**: [prajwalgopalpoojary.netlify.app](https://prajwalgopalpoojary.me/)
+- **Portfolio**: [https://prajwalgopalpoojary.me/](https://prajwalgopalpoojary.me/)
 
 ---
 
